@@ -47,7 +47,6 @@ To run these notebooks, you will need:
 
 ## Citations
 If you utilize this code or the associated methodology in your research, please cite:
-> *Akrish et al., "Hybrid Deep Convolution-Vision Transformer Model with Explainable AI for Dates Classification," 2026.*
 
 ## License & Contributions
 This project is licensed under the MIT License. Contributions are welcome—please feel free to submit a Pull Request or open an issue for discussion.
