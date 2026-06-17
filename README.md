@@ -1,7 +1,5 @@
 # Date-Vision-Hybrid: Dual-Stream Framework for Date Fruit Classification
 
-**Recommended Repository Name:** `Date-Vision-Hybrid-XAI`
-
 ## Description
 This repository contains the implementation of a novel **Dual-Stream Hybrid Framework** designed for the automated classification of Saudi Arabian date fruits. The project addresses the challenges of inter-class similarity in agriculture by synergistically combining **Convolutional Neural Networks (CNNs)** for local texture extraction and **Vision Transformers (ViTs)** for global context modeling. The final classification is performed using an optimized **XGBoost** head, with model transparency provided through **Explainable AI (SHAP)**.
 
